@@ -7,4 +7,3 @@ fig, ax = plt.subplots()
 ax.hist(rand, bins=15)
 st.pyplot(fig)
 st.write("""Hello world  my 1st streamlit app""")
-
