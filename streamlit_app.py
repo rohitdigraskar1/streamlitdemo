@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 rand=np.random.normal(1, 2, size=20)
